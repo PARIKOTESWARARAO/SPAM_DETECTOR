@@ -1,1 +1,15 @@
 # SPAM_DETECTOR
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : PARI KOTESWARA RAO
+
+**INTERN ID** : CT6WKCQ
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : JANUARY 5th,2024 to FEBRUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Image](https://github.com/user-attachments/assets/b09ede01-4d64-472c-b16e-017715f60bb2)
